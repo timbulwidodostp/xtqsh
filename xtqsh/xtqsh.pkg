@@ -1,4 +1,5 @@
 D 'xtqsh': Quantile Regression Slope Homogeneity Test for Panel Data Use xtqsh With STATA 19
+F _xtqsh_estimate.ado
 F xtqsh.ado
 F xtqsh.sthlp
 F xtqsh_graph.ado
