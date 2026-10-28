@@ -1,6 +1,8 @@
 # xtqsh
 Quantile Regression Slope Homogeneity Test for Panel Data Use xtqsh With STATA 19
 
+https://www.youtube.com/watch?v=IQ7NQEIHzAk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
